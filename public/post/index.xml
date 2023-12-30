@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ggjkm</title>
-    <link>https://ggjkm.com/</link>
-    <description>Recent content on ggjkm</description>
+    <title>Posts on ggjkm</title>
+    <link>https://ggjkm.com/post/</link>
+    <description>Recent content in Posts on ggjkm</description>
     <image>
       <title>ggjkm</title>
       <url>https://ggjkm.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 29 Dec 2023 06:31:00 +0000</lastBuildDate>
-    <atom:link href="https://ggjkm.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ggjkm.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
       <link>https://ggjkm.com/post/about/</link>
